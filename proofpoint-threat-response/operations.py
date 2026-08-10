@@ -1,6 +1,7 @@
 """ Copyright start
-  MIT License
-  Copyright (c) 2024 Fortinet Inc
+  Copyright (C) 2008 - 2026 Fortinet Inc.
+  All rights reserved.
+  FORTINET CONFIDENTIAL & FORTINET PROPRIETARY SOURCE CODE
   Copyright end """
 
 import datetime
@@ -10,7 +11,7 @@ import requests
 from connectors.core.connector import ConnectorError, get_logger
 from requests.auth import HTTPBasicAuth
 
-from const import STATE, CLASSIFICATION, LINK_ATTRIBUTE, SEVERITY
+from .const import STATE, CLASSIFICATION, LINK_ATTRIBUTE, SEVERITY
 
 logger = get_logger('proofpoint-threat-response')
 

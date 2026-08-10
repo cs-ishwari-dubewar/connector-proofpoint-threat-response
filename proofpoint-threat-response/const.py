@@ -1,6 +1,7 @@
 """ Copyright start
-  MIT License
-  Copyright (c) 2024 Fortinet Inc
+  Copyright (C) 2008 - 2026 Fortinet Inc.
+  All rights reserved.
+  FORTINET CONFIDENTIAL & FORTINET PROPRIETARY SOURCE CODE
   Copyright end """
 
 

@@ -1,7 +1,7 @@
 {
   "name": "proofpoint-threat-response",
   "label": "Proofpoint Threat Response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proofpoint Threat Response is a solution designed to help organizations manage and respond to cybersecurity threats. It provides tools and features to identify, investigate, and remediate security incidents.",
   "publisher": "Fortinet",
   "category": "Threat Response",
