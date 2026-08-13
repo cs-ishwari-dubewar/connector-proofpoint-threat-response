@@ -5,8 +5,11 @@ Proofpoint Threat Response is a solution designed to help organizations manage a
 ### Version information
 
 Connector Version: 1.0.1
+
 Publisher: Fortinet
+
 Contributor: Ishwari Dubewar
+
 Certified: No
 
 ### Release Notes for version 1.0.1
